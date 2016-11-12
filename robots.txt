@@ -1,0 +1,16 @@
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+Disallow: /blog/
+# Files
+Disallow: /LICENSE
+
+
+# Sitemap
+Sitemap: http://www.made-in-japan.org/sitemap.xml
