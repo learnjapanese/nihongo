@@ -10,7 +10,5 @@ Disallow: /themes/
 Disallow: /blog/
 # Files
 Disallow: /LICENSE
-
-
 # Sitemap
 Sitemap: http://www.made-in-japan.org/sitemap.xml
